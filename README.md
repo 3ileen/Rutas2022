@@ -1,2 +1,2 @@
-# Rutas2022
-Este proyecto fue realizado para la interacción del robot Pepper, visita 12 museos de la ciudad de Arequipa - Perú, interactúa con las personas aproximadamente  1 hora y media realizando movimientos acompañado de texto .Este proyecto fue realizado en los lenguajes de Python y Choreographe para el desemvolvimiento del robot.
+# Routes2022
+This project was designed for the interaction of the Pepper robot, visiting 12 museums in the city of Arequipa, Peru. The robot engages with people for approximately 1.5 hours, performing movements accompanied by text. The development of this project was carried out using Python and Choreographe for the robot's operations.
